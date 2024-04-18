@@ -1,0 +1,24 @@
+{
+  "name": "kshahmeer10-word-counter",
+  "version": "1.0.1",
+  "description": "this is cli base word counter from sentence",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "word counter",
+    "kshahmeer10"
+  ],
+  "author": "Shahmeer khan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
